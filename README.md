@@ -13,14 +13,14 @@ TODO:
 1. **Analogous Process Structure Induction for Sub-event Sequence Prediction.**
 *Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, Dan Roth.* (**EMNLP 2020**) \[[paper]\]\[[repo](http://cogcomp.org/page/publication_view/910)\]
 
-1. **Intent Detection with WikiHow.**
-*Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
-
 1. **Reasoning about Goals, Steps, and Temporal Ordering with WikiHow.**
 *Qing Lyu, Li Zhang, Chris Callison-Burch.* (**EMNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf)\]
 
 1. **Towards Modeling Revision Requirements in wikiHow Instructions.**
 *Irshad Ahmad Bhat, Talita Rani Anthonio and Michael Roth.* (**EMNLP 2020**) \[[paper]\]
+
+1. **Intent Detection with WikiHow.**
+*Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
 
 1. **wikiHowToImprove: A Resource and Analyses on Edits in Instructional Texts.**
 *Talita Anthonio, Irshad Bhat, Michael Roth.* (**LREC 2020**) \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.702/)\]
