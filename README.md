@@ -3,7 +3,7 @@ Following much of the recent efforts of using wikiHow as a learning resource for
 
 TODO:  
 1. Gather papers and links to code and resources.  
-2. Organize by research topics.  
+2. Group by research topics.  
 
 ## Papers
 
