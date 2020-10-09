@@ -8,10 +8,10 @@ TODO:
 ## Papers
 
 1. **Analogous Process Structure Induction for Sub-event Sequence Prediction.**
-*Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, Dan Roth.* (**EMNLP 2020**) \[[paper]\]
+*Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, Dan Roth.* (**EMNLP 2020**) \[[paper]\]\[[repo](http://cogcomp.org/page/publication_view/910)\]
 
 1. **``What Are You Trying to Do?'' Semantic Typing of Event Processes**
-*Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper]\]
+*Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper]\]\[[repo](http://cogcomp.org/page/publication_view/915)\]
 
 1. **Intent Detection with WikiHow.**
 *Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
