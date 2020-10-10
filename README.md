@@ -7,7 +7,7 @@ TODO:
 
 ## Papers
 
-1. **``What Are You Trying to Do?'' Semantic Typing of Event Processes**
+1. **``What Are You Trying to Do?'' Semantic Typing of Event Processes.**
 *Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper]\]\[[repo](http://cogcomp.org/page/publication_view/915)\]
 
 1. **Analogous Process Structure Induction for Sub-event Sequence Prediction.**
