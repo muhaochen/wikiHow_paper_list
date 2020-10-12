@@ -7,6 +7,8 @@ TODO:
 
 ## Papers
 
+### Event Understanding and Commonsense Reasoning
+
 1. **``What Are You Trying to Do?'' Semantic Typing of Event Processes.**
 *Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper]\]\[[repo](http://cogcomp.org/page/publication_view/915)\]
 
@@ -19,14 +21,18 @@ TODO:
 1. **Towards Modeling Revision Requirements in wikiHow Instructions.**
 *Irshad Ahmad Bhat, Talita Rani Anthonio and Michael Roth.* (**EMNLP 2020**) \[[paper]\]
 
+1. **Intent Detection with WikiHow.**
+*Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
+
+### Summarization
+
 1. **Multi-hop Inference for Question-driven Summarization.**
 *Yang Deng, Wenxuan Zhang, Wai Lam.* (**EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03738)\]
 
+### Learning Resources
+
 1. **WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization.**
 *Faisal Ladhak, Esin Durmus, Claire Cardie, Kathleen McKeown.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03093)\]
-
-1. **Intent Detection with WikiHow.**
-*Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
 
 1. **wikiHowToImprove: A Resource and Analyses on Edits in Instructional Texts.**
 *Talita Anthonio, Irshad Bhat, Michael Roth.* (**LREC 2020**) \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.702/)\]
