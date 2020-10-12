@@ -19,6 +19,12 @@ TODO:
 1. **Towards Modeling Revision Requirements in wikiHow Instructions.**
 *Irshad Ahmad Bhat, Talita Rani Anthonio and Michael Roth.* (**EMNLP 2020**) \[[paper]\]
 
+1. **Multi-hop Inference for Question-driven Summarization.**
+*Yang Deng, Wenxuan Zhang, Wai Lam.* (**EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03738)\]
+
+1. **WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization.**
+*Faisal Ladhak, Esin Durmus, Claire Cardie, Kathleen McKeown.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03093)\]
+
 1. **Intent Detection with WikiHow.**
 *Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
 
