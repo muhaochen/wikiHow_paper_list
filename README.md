@@ -24,8 +24,14 @@ TODO: Gather papers, and links to code and resources.
 
 ### Summarization
 
+1. **Extractive Summarization as Text Matching.**
+*Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang.* (**ACL 2020**) \[[paper](https://arxiv.org/abs/2004.08795)\]
+
 1. **Multi-hop Inference for Question-driven Summarization.**
 *Yang Deng, Wenxuan Zhang, Wai Lam.* (**EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03738)\]
+
+1. **KLearn: Background Knowledge Inference from Summarization Data.**
+*Maxime Peyrard, Robert West.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.06213)\]
 
 ### Learning Resources
 
