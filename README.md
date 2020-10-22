@@ -11,7 +11,7 @@ TODO: Gather papers, and links to code and resources.
 *Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper](https://arxiv.org/abs/2010.06724)\]\[[repo](http://cogcomp.org/page/publication_view/915)\]
 
 1. **Analogous Process Structure Induction for Sub-event Sequence Prediction.**
-*Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, Dan Roth.* (**EMNLP 2020**) \[[paper]\]\[[repo](http://cogcomp.org/page/publication_view/910)\]
+*Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, Dan Roth.* (**EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.08525)\]\[[repo](http://cogcomp.org/page/publication_view/910)\]
 
 1. **Reasoning about Goals, Steps, and Temporal Ordering with WikiHow.**
 *Qing Lyu, Li Zhang, Chris Callison-Burch.* (**EMNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf)\]
