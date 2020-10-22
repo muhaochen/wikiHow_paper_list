@@ -27,6 +27,9 @@ TODO: Gather papers, and links to code and resources.
 1. **Extractive Summarization as Text Matching.**
 *Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang.* (**ACL 2020**) \[[paper](https://arxiv.org/abs/2004.08795)\]
 
+1. **PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization.**
+*Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J. Liu.* (**ICML 2020**) \[[paper](https://arxiv.org/pdf/1912.08777.pdf)\]
+
 1. **Multi-hop Inference for Question-driven Summarization.**
 *Yang Deng, Wenxuan Zhang, Wai Lam.* (**EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03738)\]
 
@@ -36,6 +39,15 @@ TODO: Gather papers, and links to code and resources.
 1. **KLearn: Background Knowledge Inference from Summarization Data.**
 *Maxime Peyrard, Robert West.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.06213)\]
 
+
+### Language Grounding to Vision
+
+1. **Comprehensive Instructional Video Analysis: The COIN Dataset and Performance Evaluation**
+*Yansong Tang, Jiwen Lu, Jie Zhou.* (**TPAMI, 2020**) \[[paper](https://arxiv.org/pdf/2003.09392.pdf)\]
+
+1. **Learning to Segment Actions from Observation and Narration**
+*Daniel Fried, Jean-Baptiste Alayrac, Phil Blunsom, Chris Dyer, Stephen Clark, Aida Nematzadeh.* (**ACL 2020**) \[[paper](https://arxiv.org/pdf/2005.03684.pdf)\]
+
 ### Learning Resources
 
 1. **WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization.**
@@ -43,3 +55,5 @@ TODO: Gather papers, and links to code and resources.
 
 1. **wikiHowToImprove: A Resource and Analyses on Edits in Instructional Texts.**
 *Talita Anthonio, Irshad Bhat, Michael Roth.* (**LREC 2020**) \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.702/)\]
+
+
