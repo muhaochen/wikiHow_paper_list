@@ -30,6 +30,9 @@ TODO: Gather papers, and links to code and resources.
 1. **Multi-hop Inference for Question-driven Summarization.**
 *Yang Deng, Wenxuan Zhang, Wai Lam.* (**EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03738)\]
 
+1. **Compressive Summarization with Plausibility and Salience Modeling.**
+*Shrey Desai, Jiacheng Xu, Greg Durrett.* (**EMNLP 2020**) \[[paper](https://arxiv.org/pdf/2010.07886.pdf)\]
+
 1. **KLearn: Background Knowledge Inference from Summarization Data.**
 *Maxime Peyrard, Robert West.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.06213)\]
 
