@@ -50,6 +50,9 @@ TODO: Gather papers, and links to code and resources.
 
 ### Learning Resources
 
+1. **A Dataset for Tracking Entities in Open Domain Procedural Text**
+*Niket Tandon, Keisuke Sakaguchi, Bhavana Dalvi Mishra, Dheeraj Rajagopal, Peter Clark, Michal Guerquin, Kyle Richardson, Eduard Hovy.* (**EMNLP, 2020**) \[[paper](https://arxiv.org/pdf/2011.08092.pdf)\]
+
 1. **WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization.**
 *Faisal Ladhak, Esin Durmus, Claire Cardie, Kathleen McKeown.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.03093)\]
 
