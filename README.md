@@ -17,7 +17,7 @@ TODO: Gather papers, and links to code and resources.
 *Qing Lyu, Li Zhang, Chris Callison-Burch.* (**EMNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf)\]
 
 1. **Towards Modeling Revision Requirements in wikiHow Instructions.**
-*Irshad Ahmad Bhat, Talita Rani Anthonio and Michael Roth.* (**EMNLP 2020**) \[[paper]\]
+*Irshad Ahmad Bhat, Talita Rani Anthonio and Michael Roth.* (**EMNLP 2020**) \[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.675.pdf)\]
 
 1. **Intent Detection with WikiHow.**
 *Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
