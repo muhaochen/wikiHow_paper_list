@@ -42,6 +42,9 @@ TODO: Gather papers, and links to code and resources.
 
 ### Language Grounding to Vision
 
+1. **Multimodal Pretraining for Dense Video Captioning**
+*Gabriel Huang1, Bo Pang, Zhenhai Zhu, Clara Rivera, Radu Soricut.* (**AACL-IJCNLP 2020**) \[[paper](https://arxiv.org/pdf/2011.11760.pdf)\]
+
 1. **Comprehensive Instructional Video Analysis: The COIN Dataset and Performance Evaluation**
 *Yansong Tang, Jiwen Lu, Jie Zhou.* (**TPAMI, 2020**) \[[paper](https://arxiv.org/pdf/2003.09392.pdf)\]
 
