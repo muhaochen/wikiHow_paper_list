@@ -62,4 +62,6 @@ TODO: Gather papers, and links to code and resources.
 1. **wikiHowToImprove: A Resource and Analyses on Edits in Instructional Texts.**
 *Talita Anthonio, Irshad Bhat, Michael Roth.* (**LREC 2020**) \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.702/)\]
 
-
+## Tutorials
+1. **Event-Centric Natural Language Understanding**
+*Muhao Chen, Hongming Zhang, Qiang Ning, Manling Li, Heng Ji, Dan Roth.* (**AAAI, 2021**) \[[website](https://cogcomp.seas.upenn.edu/page/tutorial.202102/)\]
