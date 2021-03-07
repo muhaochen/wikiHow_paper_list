@@ -22,6 +22,9 @@ TODO: Gather papers, and links to code and resources.
 1. **Intent Detection with WikiHow.**
 *Li Zhang, Qing Lyu, Chris Callison-Burch.* (**AACL-IJCNLP 2020**) \[[paper](https://www.cis.upenn.edu/~ccb/publications/intent-detection-with-wikihow.pdf)\]
 
+1. **HellaSwag: Can a Machine Really Finish Your Sentence?.**
+*Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, Yejin Choi.* (**ACL 2019**) \[[paper](https://arxiv.org/pdf/1905.07830.pdf)\]
+
 ### Summarization
 
 1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization**
