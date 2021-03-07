@@ -24,6 +24,9 @@ TODO: Gather papers, and links to code and resources.
 
 ### Summarization
 
+1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization**
+*Yi-Syuan Chen, Hong-Han Shuai.* (**AAAI 2021**) \[[paper](https://arxiv.org/pdf/2102.09397.pdf)]
+
 1. **Extractive Summarization as Text Matching.**
 *Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang.* (**ACL 2020**) \[[paper](https://arxiv.org/abs/2004.08795)\]
 
