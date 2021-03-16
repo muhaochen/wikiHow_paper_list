@@ -1,7 +1,6 @@
 # WikiHow Paper List
 Following much of the recent effort to use wikiHow as a learning resource for event understanding, commonsense reasoning, summarization, etc. we are constructing a paper list of research based on wikiHow.  
 
-TODO: Gather papers, and links to code and resources.  
 
 ## Papers
 
