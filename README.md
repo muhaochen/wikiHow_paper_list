@@ -6,7 +6,10 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ### Event Understanding and Reasoning
 
-1. **``What Are You Trying to Do?'' Semantic Typing of Event Processes.**
+1. **Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks.**  
+*Lisa Bauer, Mohit Bansal.* (**EACL 2021**) \[[paper](https://arxiv.org/pdf/2104.10193.pdf)\]  
+
+1. **''What Are You Trying to Do?'' Semantic Typing of Event Processes.**
 *Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper](https://arxiv.org/abs/2010.06724)\]\[[repo](http://cogcomp.org/page/publication_view/915)\]
 
 1. **Analogous Process Structure Induction for Sub-event Sequence Prediction.**
@@ -26,7 +29,10 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ### Summarization
 
-1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization**
+1. **RefSum: Refactoring Neural Summarization.**  
+*Yixin Liu, Zi-Yi Dou, Pengfei Liu.* (**NAACL 2021) \[[paper](https://arxiv.org/pdf/2104.07210.pdf)]
+
+1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization.**
 *Yi-Syuan Chen, Hong-Han Shuai.* (**AAAI 2021**) \[[paper](https://arxiv.org/pdf/2102.09397.pdf)]
 
 1. **Extractive Summarization as Text Matching.**
