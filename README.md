@@ -30,7 +30,7 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 ### Summarization
 
 1. **RefSum: Refactoring Neural Summarization.**  
-*Yixin Liu, Zi-Yi Dou, Pengfei Liu.* (**NAACL 2021) \[[paper](https://arxiv.org/pdf/2104.07210.pdf)]
+*Yixin Liu, Zi-Yi Dou, Pengfei Liu.* (**NAACL 2021**) \[[paper](https://arxiv.org/pdf/2104.07210.pdf)]
 
 1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization.**
 *Yi-Syuan Chen, Hong-Han Shuai.* (**AAAI 2021**) \[[paper](https://arxiv.org/pdf/2102.09397.pdf)]
