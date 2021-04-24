@@ -4,7 +4,7 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ## Papers
 
-### Event Understanding and Commonsense Reasoning
+### Event Understanding
 
 1. **``What Are You Trying to Do?'' Semantic Typing of Event Processes.**
 *Muhao Chen, Hongming Zhang, Haoyu Wang, Dan Roth.* (**CoNLL 2020**) \[[paper](https://arxiv.org/abs/2010.06724)\]\[[repo](http://cogcomp.org/page/publication_view/915)\]
