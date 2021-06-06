@@ -29,6 +29,9 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ### Summarization
 
+1. **``Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization.``**  
+*Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao.* (**NAACL 2021**) \[[paper](https://arxiv.org/pdf/2106.01317.pdf)]
+
 1. **``RefSum: Refactoring Neural Summarization.``**  
 *Yixin Liu, Zi-Yi Dou, Pengfei Liu.* (**NAACL 2021**) \[[paper](https://arxiv.org/pdf/2104.07210.pdf)]
 
@@ -53,6 +56,9 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ### Language Grounding to Vision
 
+1. **``VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding.``**  
+*Hu Xu, Gargi Ghosh, Po-Yao Huang, Prahal Arora, Masoumeh Aminzadeh, Christoph Feichtenhofer, Florian Metze, Luke Zettlemoyer.* (**Findings of ACL 2021**) \[[paper](https://arxiv.org/pdf/2105.09996.pdf)\] 
+
 1. **``Multimodal Pretraining for Dense Video Captioning``**  
 *Gabriel Huang1, Bo Pang, Zhenhai Zhu, Clara Rivera, Radu Soricut.* (**AACL-IJCNLP 2020**) \[[paper](https://arxiv.org/pdf/2011.11760.pdf)\]
 
@@ -72,6 +78,9 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 1. **``wikiHowToImprove: A Resource and Analyses on Edits in Instructional Texts.``**  
 *Talita Anthonio, Irshad Bhat, Michael Roth.* (**LREC 2020**) \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.702/)\]
+
+1. **``HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips.``**  
+*Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic* (**ICCV 2019**) \[[paper](https://arxiv.org/pdf/1906.03327.pdf)\]
 
 ## Tutorials
 1. **``Event-Centric Natural Language Understanding (2nd edition)``**  
