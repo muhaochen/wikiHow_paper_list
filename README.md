@@ -27,7 +27,7 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 1. **``HellaSwag: Can a Machine Really Finish Your Sentence?.``**  
 *Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, Yejin Choi.* (**ACL 2019**) \[[paper](https://arxiv.org/pdf/1905.07830.pdf)\]
 
-### Summarization
+### NLG and Summarization
 
 1. **``Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization.``**  
 *Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao.* (**NAACL 2021**) \[[paper](https://arxiv.org/pdf/2106.01317.pdf)]
@@ -53,6 +53,8 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 1. **``KLearn: Background Knowledge Inference from Summarization Data.``**  
 *Maxime Peyrard, Robert West.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.06213)\]
 
+1. **``Goal-Oriented Script Construction.``**  
+*Qing Lyu, Li Zhang, Chris Callison-Burch.* (**INLG 2021**) \[[paper](https://arxiv.org/abs/2107.13189)\]  
 
 ### Language Grounding to Vision
 
