@@ -85,7 +85,7 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 *Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic* (**ICCV 2019**) \[[paper](https://arxiv.org/pdf/1906.03327.pdf)\]
 
 ## Tutorials
-1. **``Event-Centric Natural Language Understanding (2nd edition)``**  
+1. **``Event-Centric Natural Language Processing``**  
 *Muhao Chen, Hongming Zhang, Qiang Ning, Manling Li, Heng Ji, Kathleen McKeown, Dan Roth.* (**ACL, 2021**) \[[website](https://2021.aclweb.org/tutorials/program/)\]
 
 1. **``Event-Centric Natural Language Understanding``**  
