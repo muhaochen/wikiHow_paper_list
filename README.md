@@ -4,7 +4,13 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ## Papers
 
-### Event Understanding and Reasoning
+### Event Understanding and Commonsense Reasoning
+
+1. **``Rethinking Why Intermediate-Task Fine-Tuning Works.``**  
+*Ting-Yun Chang, Chi-Jen Lu.* (**Findings of EMNLP 2021**) \[[paper](https://arxiv.org/pdf/2108.11696.pdf)\]  
+
+1. **``Effectiveness of Pre-training for Few-shot Intent Classification.``**  
+*Haode Zhang, Yuwei Zhang, Li-Ming Zhan, Jiaxin Chen, Guangyuan Shi, Xiao-Ming Wu, Albert Y.S. Lam.* (**Findings of EMNLP 2021**) \[[paper](https://arxiv.org/pdf/2109.05782.pdf)\]  
 
 1. **``Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks.``**  
 *Lisa Bauer, Mohit Bansal.* (**EACL 2021**) \[[paper](https://arxiv.org/pdf/2104.10193.pdf)\]  
@@ -57,6 +63,9 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 *Maxime Peyrard, Robert West.* (**Findings of EMNLP 2020**) \[[paper](https://arxiv.org/abs/2010.06213)\]
 
 ### Language Grounding to Vision
+
+1. **``Does Vision-and-Language Pretraining Improve Lexical Grounding?``**  
+*Tian Yun, Chen Sun, Ellie Pavlick.* (**Findings of EMNLP 2021**) \[[paper](https://arxiv.org/pdf/2109.10246.pdf)\] 
 
 1. **``VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding.``**  
 *Hu Xu, Gargi Ghosh, Po-Yao Huang, Prahal Arora, Masoumeh Aminzadeh, Christoph Feichtenhofer, Florian Metze, Luke Zettlemoyer.* (**Findings of ACL 2021**) \[[paper](https://arxiv.org/pdf/2105.09996.pdf)\] 
