@@ -64,6 +64,9 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ### Language Grounding to Vision
 
+1. **``Visual Goal-Step Inference using wikiHow``**  
+*Yue Yang, Artemis Panagopoulou, Qing Lyu, Li Zhang, Mark Yatskar, Chris Callison-Burch.* (**EMNLP 2021**) \[[paper](https://aclanthology.org/2021.emnlp-main.165/)\] 
+
 1. **``Does Vision-and-Language Pretraining Improve Lexical Grounding?``**  
 *Tian Yun, Chen Sun, Ellie Pavlick.* (**Findings of EMNLP 2021**) \[[paper](https://arxiv.org/pdf/2109.10246.pdf)\] 
 
