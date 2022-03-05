@@ -6,6 +6,9 @@ Following much of the recent effort to use wikiHow as a learning resource for ev
 
 ### Event Understanding and Commonsense Reasoning
 
+1. **`` STEPS: Semantic Typing of Event Processes with a Sequence-to-Sequence Approach.``**  
+*Sveva Pepe, Edoardo Barba, Rexhina Blloshmi, Roberto Navigli.* (**AAAI 2022**) \[[paper](https://www.researchgate.net/profile/Rexhina-Blloshmi/publication/358748700_STEPS_Semantic_Typing_of_Event_Processes_with_a_Sequence-to-Sequence_Approach/links/6213afef08bee946f3943755/STEPS-Semantic-Typing-of-Event-Processes-with-a-Sequence-to-Sequence-Approach.pdf)\]  
+
 1. **``Rethinking Why Intermediate-Task Fine-Tuning Works.``**  
 *Ting-Yun Chang, Chi-Jen Lu.* (**Findings of EMNLP 2021**) \[[paper](https://arxiv.org/pdf/2108.11696.pdf)\]  
 
